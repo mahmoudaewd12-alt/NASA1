@@ -1,0 +1,22 @@
+{
+  "features": [
+    "sun_elevation_deg",
+    "sun_azimuth_deg",
+    "latitude_deg",
+    "east_longitude_deg",
+    "illumination_percent",
+    "earth_visibility_percent",
+    "earth_visible"
+  ],
+  "labels": [
+    "Poor",
+    "Moderate",
+    "Good",
+    "Excellent"
+  ],
+  "thresholds": [
+    35,
+    55,
+    75
+  ]
+}
